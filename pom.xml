@@ -3,7 +3,7 @@
   <groupId>telran.monitoring</groupId>
   <artifactId>pulse-monitoring-api</artifactId>
   <version>0.0.1</version>
-  <name>pulse-monitiring-api</name>
+  <name>pulse-monitoring-api</name>
   <description>DTO and API for pulse-monitoring application</description>
   <properties>
 	  <maven.compiler.source>17</maven.compiler.source>
